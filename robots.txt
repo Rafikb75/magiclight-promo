@@ -17,4 +17,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://rafi10merch-alt.github.io/magiclight-ai-review-with-invitation-code/sitemap.xml
+Sitemap: https://rafikb75.github.io/magiclight-promo/sitemap.xml

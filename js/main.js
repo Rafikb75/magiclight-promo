@@ -1,5 +1,14 @@
 /* MagicLight AI Hub – main.js */
 
+// Anti-Clickjacking Framebuster Protection
+if (window.top !== window.self) {
+  try {
+    window.top.location.href = window.self.location.href;
+  } catch (e) {
+    document.body.innerHTML = '<h1>Framing not allowed</h1>';
+  }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   // Copy coupon code to clipboard
   document.querySelectorAll('.copy-coupon-btn').forEach(btn => {

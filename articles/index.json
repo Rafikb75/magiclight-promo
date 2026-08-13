@@ -1,0 +1,11 @@
+{
+  "articles": [
+    {
+      "slug": "sample-guide-long-video-creation",
+      "title": "Step-by-Step Guide to Creating 30-Minute AI Videos",
+      "description": "Learn how to generate 30-minute long AI videos with character facial consistency using MagicLight AI in 2026.",
+      "date": "2026-08-13",
+      "cluster": "review-long-video.html"
+    }
+  ]
+}
